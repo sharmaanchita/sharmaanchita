@@ -8,4 +8,5 @@
 💭 Currently learning about web game development! <br/> <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaanchita&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaanchita&layout=compact&theme=transparent)
+![Anchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaanchita&show_icons=true&theme=transparent)
